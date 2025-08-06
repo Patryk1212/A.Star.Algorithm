@@ -2,6 +2,8 @@
 
 This is an interactive visualization of a well known A* path finding algorithm.
 
-Download **pplication** folder or clone the repo and run .exe.
+Download **application** folder or clone the repo and run the .exe.
 
 Have fun!
+
+![Example](images/example.jpg)
